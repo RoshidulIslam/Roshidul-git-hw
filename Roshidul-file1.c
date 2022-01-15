@@ -1,4 +1,5 @@
 #include<stdio.h>
-void name(){
- printf("Roshid");
-}
+void full_name(){
+ int a = 10;
+ printf("Roshidul Islam ");
+ }
